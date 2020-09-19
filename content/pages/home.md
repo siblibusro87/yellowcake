@@ -22,6 +22,4 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 * Blog searching and paging functionality
 * Seamless image and content sliders
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+##
