@@ -1,25 +1,16 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: >-
+  إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَٰٓأَيُّهَا
+  ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا 
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Innallaha wamalaikatahu yusholluna ala nabi ya ayyuhaladina amanu sholle alaihi wasallimu taslima'
+subtitle: >-
+  **Sesungguhnya Allah dan malaikat-malaikat-Nya bersholawat untuk Nabi. Hai
+  orang-orang yang beriman, bersholawatlah kamu untuk Nabi dan ucapkanlah salam
+  penghormatan kepadanya.**
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: 'Kumpulan Sholawat, Daftar Qosidah dan berbagai Hizib'
+  title: 'Kumpulan Sholawat, Daftar Qosidah dan berbagai Hizib'
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
-
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-
-##
+Kumpulan berbagai sholawat nabi besar Muhammad SAW, daftar qosidah berbagai hizib dari para imam imam besar toriqoh mutabaroh dan berbagai doa doa harian, dan kumpulan doa doa.
