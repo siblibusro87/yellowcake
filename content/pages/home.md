@@ -4,7 +4,7 @@ slug: ''
 title: >-
   إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَٰٓأَيُّهَا
   ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا 
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/7fc50597-0277-4674-81d0-f46b93644dc1/'
 subtitle: >-
   **Sesungguhnya Allah dan malaikat-malaikat-Nya bersholawat untuk Nabi. Hai
   orang-orang yang beriman, bersholawatlah kamu untuk Nabi dan ucapkanlah salam
