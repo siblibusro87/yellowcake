@@ -16,8 +16,9 @@ export default () => (
           < a href = "/contact/" > About </a> |
           < a href = "/privacy-policy/" > Privacy policy </a> |
           < a href = "/contact/" > Contact </a>  |
-          < a href = "/disclaimer/" > disclaimer </a> 
+          < a href = "/disclaimer/" > Disclaimer </a> 
            </span>
+           </div>
        </footer>
   </div>
 )
