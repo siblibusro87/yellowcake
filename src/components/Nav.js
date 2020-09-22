@@ -53,7 +53,6 @@ export class Navigation extends Component {
             <NavLink to = "/post-categories/hizib/"> Hizib </NavLink>
             <NavLink to = "/post-categories/sholawat/"> Sholawat </NavLink>
             <NavLink to = "/post-categories/doa/"> Doa </NavLink>
-            <NavLink to = "/quran/"> Alquran </NavLink>
             <NavLink to="/post-categories/qosidah/"> Qosidah </NavLink>
                                    
           </div>
