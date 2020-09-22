@@ -2,8 +2,6 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import { Location } from '@reach/router'
 import qs from 'qs'
-
-import PageHeader from '../components/PageHeader'
 import PostSection from '../components/PostSection'
 import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
@@ -38,7 +36,6 @@ export const byCategory = (posts, title, contentType) => {
 export const BlogIndexTemplate = ({
   title,
   subtitle,
-  
   posts = [],
   postCategories = [],
   enableSearch = true,
