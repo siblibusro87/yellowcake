@@ -13,7 +13,7 @@ meta:
   description: >-
     Kumpulan berbagai sholawat kepada Nabi besar Muhammad SAW,  qosidah , hizib
     muqtabaroh dari para imam besar beserta doa doa
-  title: 'Kumpulan Sholawat, Daftar Qosidah dan Hizib'
+  title: 'Kumpulan Sholawat, Qosidah, Hizib, dan doa-doa'
 ---
 Kumpulan berbagai sholawat kepada Nabi besar Muhammad SAW,  qosidah , hizib muqtabaroh dari para imam besar serta doa doa
 
