@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
-import { ChevronLeft } from 'react-feather'
+
 
 import Content from '../components/Content'
 import Layout from '../components/Layout'
@@ -22,9 +22,7 @@ export const SinglePostTemplate = ({
       itemType="http://schema.org/BlogPosting"
     >
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
-          <ChevronLeft /> BACK
-        </Link>
+        
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
             {date && (
