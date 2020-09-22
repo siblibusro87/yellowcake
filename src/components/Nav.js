@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
 import Logo from './Logo'
 import './Nav.css'
+import BlogSearch from './BlogSearch'
 
 export class Navigation extends Component {
   state = {
@@ -54,7 +55,7 @@ export class Navigation extends Component {
             <NavLink to = "/post-categories/doa/"> Doa </NavLink>
             <NavLink to = "/quran/"> Alquran </NavLink>
             <NavLink to="/post-categories/qosidah/"> Qosidah </NavLink>
-                       
+                                   
           </div>
           <button
             className="Button-blank Nav--MenuButton"

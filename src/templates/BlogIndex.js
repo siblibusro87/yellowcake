@@ -38,7 +38,7 @@ export const byCategory = (posts, title, contentType) => {
 export const BlogIndexTemplate = ({
   title,
   subtitle,
-  featuredImage,
+  
   posts = [],
   postCategories = [],
   enableSearch = true,
@@ -63,13 +63,7 @@ export const BlogIndexTemplate = ({
 
       return (
         <main className="Blog">
-          <PageHeader
-            title={title}
-            subtitle={subtitle}
-            backgroundImage={featuredImage}
-          />
-
-          {!!postCategories.length && (
+           {!!postCategories.length && (
             <section className="section thin">
               <div className="container">
                 <PostCategoriesNav enableSearch categories={postCategories} />
