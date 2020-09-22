@@ -49,10 +49,11 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Beranda</NavLink>
-            <NavLink to="/hizib/">Hizib</NavLink>
-            <NavLink to="/sholawat/">Sholawat</NavLink>
-            <NavLink to="/doa/">Doa</NavLink>
-            <NavLink to="/quran/">Alquran</NavLink>
+            <NavLink to = "/post-categories/hizib/"> Hizib </NavLink>
+            <NavLink to = "/post-categories/sholawat/"> Sholawat </NavLink>
+            <NavLink to = "/post-categories/doa/"> Doa </NavLink>
+            <NavLink to = "/quran/"> Alquran </NavLink>
+            <NavLink to="/post-categories/qosidah/"> Qosidah </NavLink>
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
