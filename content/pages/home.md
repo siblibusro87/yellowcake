@@ -9,17 +9,15 @@ subtitle: >-
   **Sesungguhnya Allah dan malaikat-malaikat-Nya bersholawat untuk Nabi. Hai
   orang-orang yang beriman, bersholawatlah kamu untuk Nabi dan ucapkanlah salam
   penghormatan kepadanya.**
+accordion:
+  - content: testste
+    title: accordion 1
+  - content: asd asda
+    title: accordion 2
 meta:
   description: >-
     Kumpulan berbagai sholawat kepada Nabi besar Muhammad SAW,  qosidah , hizib
     muqtabaroh dari para imam besar beserta doa doa
   title: 'Kumpulan Sholawat, Qosidah, Hizib, dan doa-doa'
 ---
-Kumpulan berbagai sholawat kepada Nabi besar Muhammad SAW,  qosidah , hizib muqtabaroh dari para imam besar serta doa doa
 
-# Fitur
-
-* Sholawat Nabi
-* Qosidah
-* Doa doa harian
-* Hizib
