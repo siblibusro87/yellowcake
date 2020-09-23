@@ -6,6 +6,8 @@ date: '2020-09-23'
 excerpt: |-
   َلِّديْنُ لَنَا وَاْلحَقُّ لَنَا ، وَاْلعَدْلُ لَنَا وَاْلکُلُّ لَنَا
   Addînu lanâ wal haqqu lanâ wal 'ad-lu lanâ wal kullu lanâ
+categories:
+  - category: Qosidah
 ---
 َلِّديْنُ لَنَا وَاْلحَقُّ لَنَا ، وَاْلعَدْلُ لَنَا وَاْلکُلُّ لَنَا
 > Addînu lanâ wal haqqu lanâ wal 'ad-lu lanâ wal kullu lanâ  
