@@ -2,7 +2,7 @@
 template: SinglePost
 title: Doa Bangun Tidur
 status: Published
-date: Invalid date
+date: '2020-09-23'
 excerpt: >-
   اَلْحَمْدُ ِللهِ الَّذِىْ اَحْيَانَا بَعْدَمَآ اَمَاتَنَا وَاِلَيْهِ
   النُّشُوْرُ
