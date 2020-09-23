@@ -4,11 +4,7 @@ slug: ''
 title: Sholawat
 featuredImage: 'https://ucarecdn.com/7fc50597-0277-4674-81d0-f46b93644dc1/'
 subtitle: ''
-accordion:
-  - content: testste
-    title: accordion 1
-  - content: asd asda
-    title: accordion 2
+accordion: []
 meta:
   description: >-
     Kumpulan berbagai sholawat kepada Nabi besar Muhammad SAW,  qosidah , hizib
