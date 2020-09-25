@@ -4,6 +4,8 @@ title: Ala ya allah binnadroh
 status: Published
 date: '2020-09-25'
 excerpt: َأَلاَ يَا الله بِنَظْرَة مِنَ الْعَيْنِ الرَّحِيْمـَة
+categories:
+  - category: Qosidah
 ---
 َأَلاَ يَا الله بِنَظْرَة مِنَ الْعَيْنِ الرَّحِيْمـَة
 
