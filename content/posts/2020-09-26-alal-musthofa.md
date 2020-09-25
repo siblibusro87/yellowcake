@@ -7,65 +7,43 @@ excerpt: Alloohumma Sholli 'alal Musthofa
 categories:
   - category: Qosidah
 ---
-
-
-
-
 اَللّٰهُمَّ صَلِّيْ عَلَى الْمُصْطَفٰى
 
-\> Alloohumma Sholli 'alal Musthofa
-
-
+\> _Alloohumma Sholli 'alal Musthofa_
 
 إِمَامِ الْعُلُوْمِ وَبَحْرِ الصَّفَا
 
-\> Imaamil 'uluumi wabahris shofaa
-
-
+\> _Imaamil 'uluumi wabahris shofaa_
 
 اَللّٰهُمَّ صَلِّيْ عَلَى الْمُصْطَفٰى
 
-\> Alloohumma Sholli 'alal Musthofa
-
-
+\> _Alloohumma Sholli 'alal Musthofa_
 
 إِمَامِ الْعُلُوْمِ وَبَحْرِ الصَّفَا
 
-\> Imaamil 'uluumi wabahris shofaa
-
-
+\> _Imaamil 'uluumi wabahris shofaa_
 
 إِمَامِ الْعُلُوْمِ وَبَحْرِ الوَفَاءْ
 
-\> Imaamil 'uluumi wabahris shofaa
-
-
+\> _Imaamil 'uluumi wabahris shofaa_
 
 نَبِىٌّ تَسِيْرُالْمَحَامِلْ اِلَيْه
 
-\> Naabiyyun tasiirul mahaamil ilaih
-
-
+\> _Naabiyyun tasiirul mahaamil ilaih_
 
 رَسُوْلٌ تُشَدُّالرِّحاَلْ اِلَيْه
 
-\> Roosulun tusyaadurrihaal ilaiih
-
-
+\> _Roosulun tusyaadurrihaal ilaiih_
 
 وَحَتَّى الشَّفَاعَةاُهْدِيَتْ اِلَيْه
 
 وَحَتَّى الشَّفَاعَةاُهْدِيَتْ اِلَيْه
 
-\> Waa hadza syafaa'ah uhdiyyat ilaih
-
-
+\> _Waa hadza syafaa'ah uhdiyyat ilaih_
 
 يَاحَضِيْرِنَاجَمِيْعًا
 
-\> Yaa haadhirinaa jami'an
-
-
+\> _Yaa haadhirinaa jami'an_
 
 صَلُّوعَلَيْه
 
@@ -73,35 +51,25 @@ categories:
 
 صَلُّوعَلَيْه
 
-\> Shollu 'alaiih...
-
-
+\> _Shollu 'alaiih..._
 
 نَبِىٌّ تَسِيْرُالْمَحَامِلْ اِلَيْه
 
-\> Naabiyyun tasiirul mahaamil ilaih
-
-
+\> _Naabiyyun tasiirul mahaamil ilaih_
 
 رَسُوْلٌ تُشَدُّالرِّحاَلْ اِلَيْه
 
-\> Roosulun tusyaadurrihaal ilaiih
-
-
+\> _Roosulun tusyaadurrihaal ilaiih_
 
 وَحَتَّى الشَّفَاعَةاُهْدِيَتْ اِلَيْه
 
 وَحَتَّى الشَّفَاعَةاُهْدِيَتْ اِلَيْه
 
-\> Waa hadza syafaa'ah uhdiyyat ilai~h
-
-
+\> _Waa hadza syafaa'ah uhdiyyat ilaih_
 
 يَاحَضِيْرِنَاجَمِيْعًا
 
-\> Yaa haadhirinaa jami'an
-
-
+\> _Yaa haadhirinaa jami'an_
 
 صَلُّوعَلَيْه
 
@@ -109,4 +77,4 @@ categories:
 
 صَلُّوعَلَيْه
 
-\> Shollu 'alaiih...
+\> _Shollu 'alaiih..._
