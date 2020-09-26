@@ -1,9 +1,9 @@
 ---
 template: SinglePost
-title: ' MAULID SIMTUDDUROR Habib Ali bin Muhammad Al Habsyi'
+title: Maulid Simtudduror
 status: Published
 date: '2020-09-27'
-excerpt: ' MAULID SIMTUDDUROR Habib Ali bin Muhammad Al Habsyi'
+excerpt: ' MAULID SIMTUDDUROR Karya Habib Ali bin Muhammad Al Habsyi'
 categories:
   - category: Bacaan Maulid
 ---
