@@ -4,6 +4,8 @@ title: Sholawat Tarhim
 status: Published
 date: '2020-09-27'
 excerpt: Sholawat Tarhim
+categories:
+  - category: Sholawat
 ---
 اَلصَّلَاةُ وَالسَّلَامُ عَلَيْكْ * يَا إِمَامَ الْمُجَاهِدِيْنْ يَا رَسُوْلَ اللهْ  
 
