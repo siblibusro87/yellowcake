@@ -1,14 +1,13 @@
 ---
 template: SinglePost
-title: Ahmad Ya Nurol huda
+title: 'Ahmad Ya Nurol huda  '
 status: Published
 date: '2020-09-25'
 excerpt: namats a'yuni yauman
 categories:
   - category: Qosidah
 ---
-
-نَامَتْ أَعْيُنِيْ يَوْمًا * نَامَتْ وَالْحَنِيْنُ نَمَى 
+نَامَتْ أَعْيُنِيْ يَوْمًا * نَامَتْ وَالْحَنِيْنُ نَمَى  
 
 رَاحَتْ تَحْتَوِيْنِيْ * رُؤْيَاكْ يَا رَسُوْلَ اللهْ 
 
@@ -28,4 +27,4 @@ categories:
 
 اِرْوِنِيْ يَا حَبِيْبِيْ * يَا طَبِيْبَ الْبَرَايَا 
 
-أَنْتَ لِيْ بَلْسَمٌ وَ شِفَاءْ  
+أَنْتَ لِيْ بَلْسَمٌ وَ شِفَاءْ
