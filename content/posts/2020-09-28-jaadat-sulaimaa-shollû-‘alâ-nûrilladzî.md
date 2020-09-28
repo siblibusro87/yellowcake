@@ -19,8 +19,7 @@ Fasarôs-surûru ilâ fu-âdi wa khoyyamâ
   
 ياَحُسْنَ مَاجَادَتْ بِهِ فِی وَصْلِهَا   
 أَهْلاً بِوَصْلٍ فِيْهِ نِلْتُ الْمَغْنَمَا  
-> Yâ husna mâ jâdat bihi fî washlihâ 
-> Ahlan biwashlin fîhi niltul-maghnamâ 
+> Yâ husna mâ jâdat bihi fî washlihâ Ahlan biwashlin fîhi niltul-maghnamâ 
 مِنَنٌ تَسَارَعَتِ الْعُقُوْلُ لِنَيْلِهَا  
 وَهِبَاتُ فَضْلِ اَوْرَثَتْنَا اَنْعُمَا  
 > Minanun tasâro’atil ‘uqûlu linailihâ  
@@ -32,12 +31,11 @@ Safahal ‘aqîqi wa huttho rihlaka fil himâ
 فِیْ مَنْزِلِ الْجُوْدِ الْعَزِيْزِ وَمَنْبَعِ   
 اَلْفَضْلِ الْكَثِيْرِ وَخَيْرِ مَجْدٍ قَدْ نَمَا   
 
-> Fî manzilil jûdil ‘azîzi wa manba’i
-Al-fadl-lil katsîri wa khoiri majdin qod namâ
+> Fî manzilil jûdil ‘azîzi wa manba’i Al-fadl-lil katsîri wa khoiri majdin qod namâ
 
 فِىْ جَنَّةٍ مَاشَاقَنِی مِنْ وَصْفِهَا
 إِلَّا لِكُوْنِ الْحُبِّ فِيْهَا خَيَّمَا
-> Fî jannatin mâ syâqonî min washfihâ Illâ likaunil hubbi fîhâ khoyyamâ 
+> Fî jannatin mâ syâqonî min washfihâ  Illâ likaunil hubbi fîhâ khoyyamâ 
 
 مَازَمْزَمَ الْحَادِی بِذِکْرِ نَزِيْلِهَا  
 إِلَّا وَانْعَشَنِی إِذَا مَازَمْزَمَا  
@@ -54,7 +52,7 @@ Yâ laitanî litturbi dzâlika altsumâ
 > Syauqun tamakkana fîl hasyâ wa takattamâa
 Syauqî ilâ dâril habîbi Muhammad
 
-دَارٍ حَوَتْ نِعَمَ اْلِإَلهِ جَمِيْعًا
+دَارٍ حَوَتْ نِعَمَ اْلِإَلهِ جَمِيْعًا  
 مُذْحَلَّ فِيْهَا خَيْرُ عَبْدٍ قَدْسَمَا
 
 > Dârin hawat ni’amal ilâhi jamî’an
