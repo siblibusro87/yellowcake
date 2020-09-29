@@ -3,9 +3,9 @@ template: SinglePost
 title: Maulid Simtudduror
 status: Published
 date: '2020-09-27'
-excerpt: ' MAULID SIMTUDDUROR Karya Habib Ali bin Muhammad Al Habsyi'
+excerpt: ' MAULID SIMTUDDUROR (Karya Habib Ali bin Muhammad Al Habsyi)'
 categories:
-  - category: Bacaan Maulid
+  - category: Maulid
 ---
 
 سِمْطُ الدُّرَرْ فِيْ أَخْبَارِ مَوْلِدِ خَيْرِ الْبَشَرْ وَمَا لَه مِنْ أَخْلَاقٍ وَأَوْصَافٍ وَسِيَرْ
