@@ -5,7 +5,7 @@ status: Published
 date: '2020-09-27'
 excerpt: Maulid Diba'
 categories:
-  - category: Bacaan Maulid
+  - category: Maulid
 ---
 مَوْلِدُ الدِّيْبَعِى
 
