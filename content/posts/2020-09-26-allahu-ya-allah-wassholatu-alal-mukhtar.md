@@ -10,36 +10,58 @@ categories:
 
 اَللَّه اللَّه يَااللَّه اَللَّه اللَّه يَااللَّه  
 وَالصَّلَاةُعَلَى امُخْتَارْخَيْرِالْبَرِيَّهْ  
-> Allah Allah Ya Allah Allah Allahu Ya Allah
-Was-sholatu 'alal mukhtar khoiril bariyyah
+
 
 لِى بِرَجْوَاكْ ياَمَوْلَاىْ عِلْقَهْ قَوِيّةْ ۰ تَحَتْ بَابِك وَشُفْ لِى فِيكْ يَارَبِ نِيهْ
+
+
+وَانْتَ يَارَبَّناتَعْلَمْ بِمَافِى الطَّوِية ۰ قَدَكْ دَارِى بِمَافِى الظَّاهِرَ وَالْخَفِيّه
+
+
+وِانْ عَصَيْنَاوَسِرْنَافِى الطَّرِقِ الْعَكِيّة ۰ فَانّ إلَكْ جُودْيَغْفِرْذَنْبَنَاوَالْخَطِيّه
+
+
+تَحَتْ بَابَكْ وَكُلُّ مِنَّكْ يَبْغَى عَطِيّه ۰ يَااللَّهَ اسْلُكْ بِنَانَهْجَ الطَّرِىقِ السَّوِيّه
+
+
+فِي طَرِيقِ النَّبِيّ وَالسَّادَةِالعَ الَوِيّه ۰ يَامُجِيْبَ اسْتَجِبْ وَاعْجَلْ بِشَرْبَهْ هَنِيّه
+
+
+وَاصْلِحْ اَعْمَالَنَا يَارَبَّنَا وَاطَّوِيه ۰ وَاكْفِنَ ارَبَّنَاشَرَّالْهَوَى وَالدَّنِيّه
+
+
+وِانْ دَعِيتْ اَهْلِ وِدِّكْ لِلْعَطَايَاالسَّنِيّه ۰ اِدْعَنَامِثْلَهُمْ نَعْرِفْحُقُوْقَ الْمَعِيّه
+
+
+فِى كَفَلْهُمْ وَمَعْهُمْ فِى الجِنَلنِ الْعَلِيّه ۰ عِنْدَطَهَ النَّبِى الْمُخْتَارْخَيْرِالْبَرِيّه
+
+
+بَخْتَنا بِالنَّبِى هُوْكَنْزُنَا وَالْخَبِيّه ۰ لِى تَعَكَّتْ تَجِى فِى الْحَالْ مِنُّهْ بَتِيّه
+
+
+وِانْ دَعَيْنَاه لِلْبَلْوَى يُزِيْلِ الْبَلِيّه ۰ وَالْفِصَلُّوا عَلَيهْ اِنُّهْ اِمَامِ السَّرِيّه
+
+
+
+> Allah Allah Ya Allah Allah Allahu Ya Allah Was-sholatu 'alal mukhtar khoiril bariyyah
+
 > libiroj' wak yaa maulaa 'ilqoh qowiyyah • Tahat babik wa syuflii fik ya 
 Robbi-niyyah
 
-وَانْتَ يَارَبَّناتَعْلَمْ بِمَافِى الطَّوِية ۰ قَدَكْ دَارِى بِمَافِى الظَّاهِرَ وَالْخَفِيّه
 > Wanta ya Robbana ta'lam bima fit-thowiyyah • Qodak daari bimaa fidz-dzoohiro wal khofiyyah
 
-وِانْ عَصَيْنَاوَسِرْنَافِى الطَّرِقِ الْعَكِيّة ۰ فَانّ إلَكْ جُودْيَغْفِرْذَنْبَنَاوَالْخَطِيّه
 > Win'ashoyinaa wasirnaa fit-thoriqil 'akiyyah • Fanna ilak jud yaghfir dzanbana wal khothiyyah
 
-تَحَتْ بَابَكْ وَكُلُّ مِنَّكْ يَبْغَى عَطِيّه ۰ يَااللَّهَ اسْلُكْ بِنَانَهْجَ الطَّرِىقِ السَّوِيّه
 > Tahat babak wa kullu minnak yabgho 'athiyyah • Ya Allahasluk binaa nahjat-thoriqis sawiyyah
 
-فِي طَرِيقِ النَّبِيّ وَالسَّادَةِالعَ الَوِيّه ۰ يَامُجِيْبَ اسْتَجِبْ وَاعْجَلْ بِشَرْبَهْ هَنِيّه
 > Fii thoriqin-nabiyy was-sadatil 'alawiyyah • Yaa Mujiibastajib wa'jal bisyarbah haniyyah
 
-وَاصْلِحْ اَعْمَالَنَا يَارَبَّنَا وَاطَّوِيه ۰ وَاكْفِنَ ارَبَّنَاشَرَّالْهَوَى وَالدَّنِيّه
 > Washlih a'malana ya Robbana wat-thowiyyah • Wakfinaa Robbana syarrol hawa wad-daniyyah
 
-وِانْ دَعِيتْ اَهْلِ وِدِّكْ لِلْعَطَايَاالسَّنِيّه ۰ اِدْعَنَامِثْلَهُمْ نَعْرِفْحُقُوْقَ الْمَعِيّه
 > Winda'aiyt ahli widdik lil 'athoyas-saniyyah • id'anaa mitslahum na'rif huquqol ma'iyyah
 
-فِى كَفَلْهُمْ وَمَعْهُمْ فِى الجِنَلنِ الْعَلِيّه ۰ عِنْدَطَهَ النَّبِى الْمُخْتَارْخَيْرِالْبَرِيّه
 > Fii kafalhum wa ma'hum fil jinanil 'aliyyah • 'Inda Thohan-nabil mukhtar khoiyril bariyyah
 
-بَخْتَنا بِالنَّبِى هُوْكَنْزُنَا وَالْخَبِيّه ۰ لِى تَعَكَّتْ تَجِى فِى الْحَالْ مِنُّهْ بَتِيّه
 > Bakhtanaa bin-nabiy huw kanzunaa wal khobiyyah • Lii ta'akkat tajii filhal minnuh batiyyah
 
-وِانْ دَعَيْنَاه لِلْبَلْوَى يُزِيْلِ الْبَلِيّه ۰ وَالْفِصَلُّوا عَلَيهْ اِنُّهْ اِمَامِ السَّرِيّه
 > Winda 'ainah lil balwah yuzilil baliyyah • Wal fishollu 'alaihin-nuh imamis-sariyyah
