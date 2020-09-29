@@ -11,24 +11,32 @@ categories:
 
 کُلُّ الْـقُلُوْبِ اِلَی الْحَبِيْبِ تَّمِيْلُ
 
-> Kullul qulûbi ilâl habîbi tamîlu
 
 وَمَعِيْ بِذٰلِكَ شَاهِدٌ وَدَلِيْلُ
 
-> Wa ma’iya bidzâlika syâhidun Syâhidun wa dalîlu
 
 أَمَّا الدَّلِيْلُ إِذَا ذَگرْتُ مُحَمَّدًا
 
-> Ammad-dalîlu idzâ dzakartu Muhammadan
 
 صَارَتْ الدَّمُوْع الْعَاشِقِيْنَ تَسِيْلُ
 
-> Shôrot dumû’ul ‘âsyiqîna tasîlun
 
 هَذَا رَسُوْلُ اللهِ هَذَا الْمُصْطَفَی
 
-> Hâdzâ Rosûlullâh Hâdzâl Mushthofâ
 
 هَذَا لِرَبِّ الْعَالَمِيْن خَلِيْلُ
+
+
+
+
+> Kullul qulûbi ilâl habîbi tamîlu
+
+> Wa ma’iya bidzâlika syâhidun Syâhidun wa dalîlu
+
+> Ammad-dalîlu idzâ dzakartu Muhammadan
+
+> Shôrot dumû’ul ‘âsyiqîna tasîlun
+
+> Hâdzâ Rosûlullâh Hâdzâl Mushthofâ
 
 > Hâdzâ lirobbil ‘âlamîna kholîlu
