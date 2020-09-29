@@ -9,93 +9,138 @@ categories:
 ---
 
 حَبِيْبِيْ يَا مُحَمَّدْ  
-> Habibii ya Muhammad  
+
 يَا صَادِقًا بِالْوَعْدْ  
-> Ya shoodiqon bilwa’di  
+ 
 يَا أَحْمَدْ يَا مُؤَيَّدْ  
-> Ya ahmad ya muayyad  
-يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ  
-> Ya Habibi Minal fardisshomadi  
+
+يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ   
 حَبِيْبِيْ يَا مُحَمَّدْ  
-> Habibii ya Muhammad  
+ 
 يَا صَادِقًا بِالْوَعْدْ  
-> Ya shoodiqon bilwa’di  
+
 يَا أَحْمَدْ يَا مُؤَيَّدْ  
-> Ya ahmad ya muayyad  
+ 
 يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ  
-> Ya Habibi Minal fardisshomadi  
+
 
 حَبِيْبِيْ يَا مُحَمَّدْ  
-> Habibii ya Muhammad  
+ 
 يَا صَادِقًا بِالْوَعْدْ  
-> Ya shoodiqon bilwa’di  
+ 
 يَا أَحْمَدْ يَا مُؤَيَّدْ  
-> Ya ahmad ya muayyad  
+ 
 يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ  
-> Ya Habibi Minal fardisshomadi  
+
 يَا صَادِقَ الْمَقَالِ  
-> Ya shoodiqol maqooli  
+
 يَا ذَا الْمَقَامِ الْعَالِيْ  
-> Ya dzalmaqoomil ‘aliy  
+
 يَا صَادِقَ الْمَقَالِ  
-> Ya shoodiqol maqooli  
+ 
 يَا ذَا الْمَقَامِ الْعَالِيْ  
-> Ya dzalmaqoomil ‘aliy  
+  
 يَا مَنْ حَبَاهُ رَبِّيْ  
-> Ya man habaahu robbi  
+
 
 بِطَيِّبِ الْأَفْعَالِ  
-> Bithoyyibil af’aali  
+
 يَا مَنْ حَبَاهُ رَبِّيْ  
-> Ya man habaahu robbi  
+
 بِطَيِّبِ الْأَفْعَالِ  
-> Bithoyyibil af’aali  
+
 حَبِيْبِيْ يَا مُحَمَّدْ  
-> Habibii ya Muhammad  
+
 يَا صَادِقًا بِالْوَعْدْ  
-> Ya shoodiqon bilwa’di  
+  
 يَا أَحْمَدْ يَا مُؤَيَّدْ  
-> Ya ahmad ya muayyad  
+
 يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ  
-> Ya Habibi Minal fardisshomadi  
+ 
 حَبِيْبِيْ يَا مُحَمَّدْ  
-> Habibii ya Muhammad  
+
 يَا صَادِقًا بِالْوَعْدْ  
-> Ya shoodiqon bilwa’di  
+ 
 
 يَا أَحْمَدْ يَا مُؤَيَّدْ  
-> Ya ahmad ya muayyad  
+
 يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ  
-> Ya Habibi Minal fardisshomadi  
+ 
 يَا صَادِقَ الْمَقَالِ  
-> Ya shoodiqol maqooli  
+
 يَا ذَا الْمَقَامِ الْعَالِيْ  
-> Ya dzalmaqoomil ‘aliy  
+
 يَا صَادِقَ الْمَقَالِ  
-> Ya shoodiqol maqooli  
+
 يَا ذَا الْمَقَامِ الْعَالِيْ
-> Ya dzalmaqoomil ‘aliy  
+  
 يَا مَنْ حَبَاهُ رَبِّيْ  
-> Ya man habaahu robbi  
+
 بِطَيِّبِ الْأَفْعَالِ  
-> Bithoyyibil af’aali  
+
 يَا مَنْ حَبَاهُ رَبِّيْ  
-> Ya man habaahu robbi  
+
 بِطَيِّبِ الْأَفْعَالِ  
-> Bithoyyibil af’aali  
+ 
 حَبِيْبِيْ يَا مُحَمَّدْ  
-> Habibii ya Muhammad  
+
 يَا صَادِقًا بِالْوَعْدْ  
-> Ya shoodiqon bilwa’di  
+ 
 يَا أَحْمَدْ يَا مُؤَيَّدْ  
-> Ya ahmad ya muayyad  
+
 يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ  
+  
+حَبِيْبِيْ يَا مُحَمَّدْ  
+ 
+يَا صَادِقًا بِالْوَعْدْ  
+ 
+يَا أَحْمَدْ يَا مُؤَيَّدْ  
+ 
+يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ  
+
+
+
+> Habibii ya Muhammad  
+> Ya shoodiqon bilwa’di 
+> Ya ahmad ya muayyad  
+> Ya Habibi Minal fardisshomadi 
+> Habibii ya Muhammad 
+> Ya shoodiqon bilwa’di  
+> Ya ahmad ya muayyad 
 > Ya Habibi Minal fardisshomadi  
-حَبِيْبِيْ يَا مُحَمَّدْ  
+> Habibii ya Muhammad 
+> Ya shoodiqon bilwa’di 
+> Ya ahmad ya muayyad 
+> Ya Habibi Minal fardisshomadi  
+> Ya shoodiqol maqooli  
+> Ya dzalmaqoomil ‘aliy  
+> Ya shoodiqol maqooli 
+> Ya dzalmaqoomil ‘aliy
+> Ya man habaahu robbi  
+> Bithoyyibil af’aali  
+> Ya man habaahu robbi  
+> Bithoyyibil af’aali  
 > Habibii ya Muhammad  
-يَا صَادِقًا بِالْوَعْدْ  
-> Ya shoodiqon bilwa’di  
-يَا أَحْمَدْ يَا مُؤَيَّدْ  
+> Ya shoodiqon bilwa’di
 > Ya ahmad ya muayyad  
-يَاحَبِيْبِيْ مِنَ الْفَرْدِ الصَّمَدْ  
+> Ya Habibi Minal fardisshomadi 
+> Habibii ya Muhammad  
+> Ya shoodiqon bilwa’di 
+> Ya ahmad ya muayyad  
+> Ya Habibi Minal fardisshomadi 
+> Ya shoodiqol maqooli  
+> Ya dzalmaqoomil ‘aliy  
+> Ya shoodiqol maqooli  
+> Ya dzalmaqoomil ‘aliy
+> Ya man habaahu robbi  
+> Bithoyyibil af’aali  
+> Ya man habaahu robbi  
+> Bithoyyibil af’aali 
+> Habibii ya Muhammad  
+> Ya shoodiqon bilwa’di 
+> Ya ahmad ya muayyad  
+> Ya Habibi Minal fardisshomadi
+> Habibii ya Muhammad 
+> Ya shoodiqon bilwa’di 
+> Ya ahmad ya muayyad 
 > Ya Habibi Minal fardisshomadi
