@@ -9,27 +9,22 @@ categories:
 ---
 إِلٰهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاَ ۞ وَلاَ أَقوى عَلَى النّارِ الجَحِيمِ
 
-> Ilaahii lastu lil firdausi ahlaan wa laa aqwaa ‘alaa naaril jahiimi
-
 فهَبْ لِي تَوْبَةً وَاغْفِرْ ذنوبِي ۞ فَإنّكَ غَافِرُ الذنْبِ العَظِيْم
-
-> Fa hablii taubatan waghfir zunuubii fa innaka ghaafirudzdzambil ‘azhiimi
 
 ذُنُوْبِي مِثلُ أَعْدَادٍ الرّمَالِ ۞ فَهَبْ لِي تَوْبَةً يَاذَاالجَلاَل
 
-> Dzunuubii mitslu a’daadir rimaali fa hablii taubatan yaa dzaaljalaali
-
 وَعُمْرِي نَاقِصٌ فِي كُلِّ يَوْمٍ ۞ وَذنْبِي زَائِدٌ كَيفَ احْتِمَالِي
-
-> Wa ‘umrii naaqishun fii kulli yaumi wa dzambii zaa-idun kaifah timaali
 
 إلٰهِي عَبْدُكَ العَاصِي أَتَاكَ ۞ مُقِرًّا بِالذنوبِ وَقَدْ دَعَاك
 
-> Ilaahii ‘abdukal ‘aashii ataaka muqirran bidzdzunuubi wa qad da’aaka
-
 فَإِنْ تَغْفِرْ فَأنْتَ لِذَاكَ أَهْلٌ ۞ فَإنْ تَطْرُدْ فَمَنْ نَرْجُو سِوَاكَ
 
-> Fa in taghfir fa anta lidzaaka ahlun wa in tathrud faman narjuu siwaaka
+> Ilaahii lastu lil firdausi ahlaan wa laa aqwaa ‘alaa naaril jahiimi\
+> Dzunuubii mitslu a’daadir rimaali fa hablii taubatan yaa dzaaljalaali\
+> Fa hablii taubatan waghfir zunuubii fa innaka ghaafirudzdzambil ‘azhiimi\
+> Wa ‘umrii naaqishun fii kulli yaumi wa dzambii zaa-idun kaifah timaali\
+> Ilaahii ‘abdukal ‘aashii ataaka muqirran bidzdzunuubi wa qad da’aaka\
+> Fa in taghfir fa anta lidzaaka ahlun wa in tathrud faman narjuu siwaaka  
 
 Artinya : 
 
