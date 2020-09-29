@@ -8,19 +8,29 @@ categories:
   - category: Qosidah
 ---
 بِمَوْلِدِ الْهَادِى * قَدْضَاءَتِ اْلاَكْوَانْ
-> Bimaulidil hadi * Qod dho atil akwan
+
 
 يَابَهْجَةَ الدُّنْيَا * يَانَفْحَةَ الرَّحْمَنْ
-> Ya bahjata dunyaa * Ya nafhata rohman
+
 
 يَامَبْعَثَ الرَّحْمَةْ * يَاكَاشِفَ اْلغُمَّةْ
-> Ya mab’atsa rahmat * Ya kasyifal ghummah
+
 
 تَمَّتْ بِكَ النِّعْمَةْ * يَامِنَّةَ الدُّيَّانْ
-> Tammat bikan nikmah * Ya minnad duyyan
+
 
 يَاسَيِّدَ السَّادَاتْ * يَاصَاحِبَ الحَيْرَاتْ
-> Ya sayyida sadat * Ya sohibal hairot
+
 
 قَدْجِئْتَ بِالاَيَاتْ * يَا نُسْحَةَ الفُرْقَانْ
+
+
+> Bimaulidil hadi * Qod dho atil akwan
+
+> Ya mab’atsa rahmat * Ya kasyifal ghummah
+
+> Tammat bikan nikmah * Ya minnad duyyan
+
+> Ya sayyida sadat * Ya sohibal hairot
+
 > Qod ji’ta bil ayat * Ya nushatal furqon
