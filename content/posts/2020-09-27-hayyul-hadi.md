@@ -10,60 +10,88 @@ categories:
 ---
 
 مِنَ القُدُوسِ  سَرَى لَيلَا  
-> Minal kudusi  Farola illa  
+
  ثُمَّ دَنَا  فَتَدَلَّ  
-> Tsumma dana  Fatadalla  
+ 
 فَهُوَ عِمَادِی يَومَ المَعَادِ  
-> Fahuwa ‘imâdî yawmal ma’âdi  
+
 نَبِيُّنَا طَهَ المُختَار  
-> Nabiyyunâ Thôhal mukhtâr  
+ 
 
 حَيُّوا الهَادِی بِأَجمَل ذِکرَی  
-> Hayyûl hâdî bi ajmal dzikrô  
+
 صَلُّوا مَعَانَا يَاحُضَّار  
-> Shollû ma’ânâ yâ hudldlôr  
+
 فَهُوَ عِمَادِی يَومَ المَعَادِ  
-> Fahuwa ‘imâdî yawmal ma’âdi  
+
 نَبِيُّنَا طَهَ المُختَار  
-> Nabiyyunâ Thôhal mukhtâr  
+ 
 مِنَ القُدُوسِ  سَرَى لَيلَا  
-> Minal kudusi  Sarola illa  
+ 
 ثُمَّ دَنَا فَتَدَلَّی  
-> Tsumma danâ fatadallâ  
+
 مِنَ القُدُوسِ  سَرَى لَيلَا  
-> Minal kudusi  Sarola illa  
+
 ثُمَّ دَنَا فَتَدَلَّی  
-> Tsumma danâ fatadallâ  
+ 
 فَهُوَ عِمَادِی يَومَ المَعَادِ  
-> Fahuwa ‘imâdî yawmal ma’âdi  
+
 نَبِيُّنَا طَهَ المُختَار  
-> Nabiyyunâ Thôhal mukhtâr  
+ 
 حَيُّوا الهَادِی بِأَجمَل ذِکرَی  
-> Hayyûl hâdî bi ajmal dzikrô  
+
 صَلُّوا مَعَانَا يَاحُضَّار  
-> Shollû ma’ânâ yâ hudldlôr  
+ 
 فَهُوَ عِمَادِی يَومَ المَعَادِ    
-> Fahuwa ‘imâdî yawmal ma’âdi  
-نَبِيُّنَا طَهَ المُختَار  
-> Nabiyyunâ Thôhal mukhtâr  
-صَلَّی مَولَانَا عَلَيه  
-> Shollâ mawlânâ ‘alayh  
-وَالآلِ وَالصَّحبِ لَدَيه  
-> Wal ãli washshohbi ladaih  
-صَلَّی مَولَانَا عَلَيه  
-> Shollâ mawlânâ ‘alayh  
-وَالآلِ وَالصَّحبِ لَدَيه  
-> Wal ãli washshohbi ladaih  
-فَهُوَ عِمَادِی يَومَ المَعَادِ  
-> Fahuwa ‘imâdî yawmal ma’âdi  
-نَبِيُّنَا طَهَ المُختَار  
-> Nabiyyunâ Thôhal mukhtâr  
-حَيُّوا الهَادِی بِأَجمَل ذِکرَی  
-> Hayyûl hâdî bi ajmal dzikrô  
-صَلُّوا مَعَانَا يَاحُضَّار  
-> Shollû ma’ânâ yâ hudldlôr  
-فَهُوَ عِمَادِی يَومَ المَعَادِ  
-> Fahuwa ‘imâdî yawmal ma’âdi  
-نَبِيُّنَا طَهَ المُختَار  
-> Nabiyyunâ Thôhal mukhtâr
 
+نَبِيُّنَا طَهَ المُختَار  
+ 
+صَلَّی مَولَانَا عَلَيه  
+ 
+وَالآلِ وَالصَّحبِ لَدَيه  
+ 
+صَلَّی مَولَانَا عَلَيه  
+ 
+وَالآلِ وَالصَّحبِ لَدَيه  
+ 
+فَهُوَ عِمَادِی يَومَ المَعَادِ  
+ 
+نَبِيُّنَا طَهَ المُختَار  
+ 
+حَيُّوا الهَادِی بِأَجمَل ذِکرَی  
+  
+صَلُّوا مَعَانَا يَاحُضَّار  
+ 
+فَهُوَ عِمَادِی يَومَ المَعَادِ  
+ 
+نَبِيُّنَا طَهَ المُختَار  
+
+
+> Minal kudusi  Farola illa  
+> Tsumma dana  Fatadalla 
+> Fahuwa ‘imâdî yawmal ma’âdi  
+> Nabiyyunâ Thôhal mukhtâr 
+> Hayyûl hâdî bi ajmal dzikrô  
+> Shollû ma’ânâ yâ hudldlôr  
+> Fahuwa ‘imâdî yawmal ma’âdi  
+> Nabiyyunâ Thôhal mukhtâr 
+> Minal kudusi  Sarola illa 
+> Tsumma danâ fatadallâ  
+> Minal kudusi  Sarola illa  
+> Tsumma danâ fatadallâ 
+> Fahuwa ‘imâdî yawmal ma’âdi 
+> Nabiyyunâ Thôhal mukhtâr  
+> Hayyûl hâdî bi ajmal dzikrô  
+> Shollû ma’ânâ yâ hudldlôr 
+> Fahuwa ‘imâdî yawmal ma’âdi  
+> Nabiyyunâ Thôhal mukhtâr 
+> Shollâ mawlânâ ‘alayh 
+> Wal ãli washshohbi ladaih 
+> Shollâ mawlânâ ‘alayh 
+> Wal ãli washshohbi ladaih 
+> Fahuwa ‘imâdî yawmal ma’âdi 
+> Nabiyyunâ Thôhal mukhtâr 
+> Hayyûl hâdî bi ajmal dzikrô  
+> Shollû ma’ânâ yâ hudldlôr 
+> Fahuwa ‘imâdî yawmal ma’âdi 
+> Nabiyyunâ Thôhal mukhtâr
