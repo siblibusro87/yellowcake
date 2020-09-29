@@ -13,17 +13,11 @@ categories:
 
 زَالَ الْعَنَى وَافَالْهَنَا 
 
-\> Busyrô lanâ nilnâl munâ,   
-
-Zâlal ‘anâ wa falhanâ
 
 وَالدَّهْرُ أَنْجَزَ وَعْدَهُ   
 
 وَالْبِشْرُ أَضْحَی مُعْلَنَا
 
-\> Waddahru anjaza wa’dahu,   
-
-Wal bisyru adlhâ mu’lanâ
 
 بُشـرَی لَنَا نِلنَا المُنَى  
 
@@ -32,24 +26,17 @@ Wal bisyru adlhâ mu’lanâ
 وَالدَّهْرُ أَنْجَزَ وَعْدَهُ   
 
 وَالْبِشْرُ أَضْحَی مُعْلَنَا  
-
 
 
 يَانَفْسُ طِيْبِی بِاللِّقَا   
 
 يَاعَيْنُ قَرِّی أَعْيُنَا  
 
-\> Yâ nafsu thîbî billiqô,   
-
-Yâ ‘ainu qorrî a’yunâ
 
 هٰذَا جَمَالُ الْمُصْطَفَی  
 
 أَنْوَارُهُ لَاحَتْ لَنَا  
 
-\> Hâdzâ jamâlul Mushthofâ,  
-
-Anwâruhu lâ hat lanâ
 
 بُشـرَی لَنَا نِلنَا المُنَى  
 
@@ -58,7 +45,6 @@ Anwâruhu lâ hat lanâ
 وَالدَّهْرُ أَنْجَزَ وَعْدَهُ   
 
 وَالْبِشْرُ أَضْحَی مُعْلَنَا  
-
 
 
 بُشـرَی لَنَا نِلنَا المُنَى  
@@ -70,14 +56,10 @@ Anwâruhu lâ hat lanâ
 وَالْبِشْرُ أَضْحَی مُعْلَنَا  
 
 
-
 يَاطَيْبَةُ مَاذَا نَقُولْ
 
 وَفِيْكِ قَدْحَلَّ الرَّسُولْ  
 
-\> Yâ thoibatu mâdzâ naqûl,  
-
-Wa fîki qod hallar rosûl
 
 وَکُلُّنَا يَرْجُوالْوُصُولْ
 
@@ -87,10 +69,26 @@ Wa fîki qod hallar rosûl
 
 لِمُحَمَّدٍ نَبِيِّنَا  
 
-\> Wa kullunâ narjûl wushûl,
 
+
+
+> Busyrô lanâ nilnâl munâ,   
+Zâlal ‘anâ wa falhanâ
+
+> Waddahru anjaza wa’dahu,   
+Wal bisyru adlhâ mu’lanâ
+
+> Yâ nafsu thîbî billiqô,   
+Yâ ‘ainu qorrî a’yunâ
+
+> Yâ thoibatu mâdzâ naqûl,  
+Wa fîki qod hallar rosûl
+
+> Hâdzâ jamâlul Mushthofâ,  
+Anwâruhu lâ hat lanâ
+
+> Wa kullunâ narjûl wushûl,
 Limuhammadin nabiynâ 3x
-
 
 
 Artinya : 
