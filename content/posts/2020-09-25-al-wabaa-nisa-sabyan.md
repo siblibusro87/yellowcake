@@ -9,23 +9,25 @@ categories:
 ---
 اَللهُمَّ ادْفَعْ عَنَّاالْغَلَآءَ وَالْبَلَآءَ وَالْوَبَآءَ
 
-> Allahummad fa’nal ghola’ wal bala’ wal wabaa’
 
 فِي الدُّنْيَا خَاصَّةْ فِي بَلَادِنَا اِنْدُونِيسِيَّا
 
-> Fii dun’ya khossoh Fi baladina Indonesia
 
 اَللهُمَّ ادْفَعْ عَنَّاالْغَلَآءَ وَالْبَلَآءَ وَالْوَبَآءَ
 
-> Allahummad fa’nal ghola’ wal bala’ wal wabaa’
 
 فِي الدُّنْيَا خَاصَّةْ فِي بَلَادِنَا اِنْدُونِيسِيَّا
 
-> Fii dun’ya khossoh Fi baladina Indonesia
+
+
+> Allahummad fa’nal ghola’ wal bala’ wal wabaa’  
+> Fii dun’ya khossoh Fi baladina Indonesia  
+> Allahummad fa’nal ghola’ wal bala’ wal wabaa’  
+> Fii dun’ya khossoh Fi baladina Indonesia  
 
 Artinya:
 
-_Ya Allah hindari kami dari kekurangan pangan, cobaan hidup, dan wabah penyakit
+Ya Allah hindari kami dari kekurangan pangan, cobaan hidup, dan wabah penyakit
 Di Dunia khususnya di Negara kami Indonesia
 Ya Allah hindari kami dari kekurangan pangan, cobaan hidup, dan wabah penyakit
-Di Dunia khususnya di Negara kami Indonesia_
+Di Dunia khususnya di Negara kami Indonesia
