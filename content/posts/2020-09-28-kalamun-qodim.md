@@ -10,80 +10,103 @@ categories:
 ---
 كَــلاَ مٌ قَدِ يمٌ لاَ يُمَلُّ سَمَــا عُـــهُ
 
-> kalamun qodimun laa yumalu samauhu
 
 تَنَــزَّهَ عَن قَو لٍ وَفِعلٍ وَنِيَّــــةٍ
 
-> Tanazah an qoulin wa fi`lin wa niyatin  
-
+  
 بِهِ اَشتـَفِى مِن كُلِّ دَا ءٍ وَنُو رُهُ
 
-> Bihi astafi min kulli daain wa nuuruhu
 
 دَ لِيــلٌ لِقَلبِي عِندَ جَهــلِى وَحَيرَ تِى
 
-> Dalilun liqolbi inda jahli wa hiyrotiy
 
 كَــلاَ مٌ قَدِ يمٌ لاَ يُمَلُّ سَمَــا عُـــهُ
 
-> kalamun qodimun laa yumalu samauhu
 
 تَنَــزَّهَ عَن قَو لٍ وَفِعلٍ وَنِيَّــــةٍ
 
-> Tanazah an qoulin wa fi`lin wa niyatin
 
 فَيَـا رَبِّ مَتِّعــنِي بِسِرِّ حُرُفِهِ
 
-> Faya robbi mattianii bisirri hurufihi
 
 وَنَوِّر بِهِ قَلبِي وَسَمعِــى وَمُقلَــتِى
 
-> Wanawwir bihi qolbi wa sami wa muqolati
 
 وَنَوِّر بِهِ قَلبِي وَسَمعِــى وَمُقلَــتِى
 
-> Wanawwir bihi qolbi wa sami wa muqolati
 
 كَــلاَ مٌ قَدِ يمٌ لاَ يُمَلُّ سَمَــا عُـــهُ
 
-> kalamun qodimun laa yumalu samauhu
 
 تَنَــزَّهَ عَن قَو لٍ وَفِعلٍ وَنِيَّــــةٍ
 
-> Tanazah an qoulin wa fi`lin wa niyatin
 
 وَيَارَبِّ يَا فَتَّاح اِفتَح قُلُوبَنَا
 
-> wa yaa robbi yaa fattah iftah qulubana
 
 وَفَهِّم بِهِ قَلبِى عُلُومَ الشَّرِيعَةِ
 
-> wa fahim bihi qolbi ulumas syariyati
 
 وَفَهِّم بِهِ قَلبِى عُلُومَ الشَّرِيعَةِ
 
-> wa fahim bihi qolbi ulumas syariyati
 
 كَــلاَ مٌ قَدِ يمٌ لاَ يُمَلُّ سَمَــا عُـــهُ
 
-> kalamun qodimun laa yumalu samauhu
 
 تَنَــزَّهَ عَن قَو لٍ وَفِعلٍ وَنِيَّــــةٍ
 
-> Tanazah an qoulin wa fi`lin wa niyatin
-> بِهِ اَشتـَفِى مِن كُلِّ دَا ءٍ وَنُو رُهُ
-> Bihi astafi min kulli daain wa nuuruhu
+
+بِهِ اَشتـَفِى مِن كُلِّ دَا ءٍ وَنُو رُهُ
+
 
 دَ لِيــلٌ لِقَلبِي عِندَ جَهــلِى وَحَيرَ تِى
 
-> dalilun liqolbi inda jahli wa hiyrotiy
-> وَصَلِّ وَسَلِّم يَا اِلهِى لِمُنذِرِ
->
-> wa sholli wa sallim ya ilahi limundiri
+وَصَلِّ وَسَلِّم يَا اِلهِى لِمُنذِرِ
+
 
 عَدَدَ حُرُوفٍ بِالقُرانِ وَالسًّورَةٍ
 
+
+> kalamun qodimun laa yumalu samauhu
+
+> Tanazah an qoulin wa fi`lin wa niyatin
+
+> Bihi astafi min kulli daain wa nuuruhu
+
+> Dalilun liqolbi inda jahli wa hiyrotiy
+
+> kalamun qodimun laa yumalu samauhu
+
+> Tanazah an qoulin wa fi`lin wa niyatin
+
+> Faya robbi mattianii bisirri hurufihi
+
+> Wanawwir bihi qolbi wa sami wa muqolati
+
+> Wanawwir bihi qolbi wa sami wa muqolati
+
+> kalamun qodimun laa yumalu samauhu
+
+> Tanazah an qoulin wa fi`lin wa niyatin
+
+> wa yaa robbi yaa fattah iftah qulubana
+
+> wa fahim bihi qolbi ulumas syariyati
+
+> wa fahim bihi qolbi ulumas syariyati
+
+> kalamun qodimun laa yumalu samauhu
+
+> Tanazah an qoulin wa fi`lin wa niyatin
+
+> Bihi astafi min kulli daain wa nuuruhu
+
+> dalilun liqolbi inda jahli wa hiyrotiy
+
+> wa sholli wa sallim ya ilahi limundiri
+
 > 'adada hurufin bil qurani wa surotiinn
+
 
 **Artinya :**
 
