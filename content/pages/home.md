@@ -7,11 +7,7 @@ subtitle: >-
   Sesungguhnya Allah dan malaikat-malaikat-Nya bersholawat untuk Nabi. Hai
   orang-orang yang beriman, bersholawatlah kamu untuk Nabi dan ucapkanlah salam
   penghormatan kepadanya.
-accordion:
-  - content: Sholawat Nabi
-    title: Sholawat
-  - content: Lirik Qosidah
-    title: Qosidah
+accordion: []
 meta:
   description: 'Kumpulan Doa-doa, Sholawat, Qosidah, Hizib, dan Maulid yang Muktabar'
   title: 'Kumpulan Doa-doa, Sholawat, Qosidah, Hizib, dan Maulid'
@@ -32,12 +28,4 @@ Pada Website ini kami berbagi dan membantu kepada para sahabat semuanya untuk da
 
 # 
 
-> Dukung Kami Dengan follow dan Like Social media ka
-
-![]()
-
-> mi
-
-```
-[fb logo] [twitter logo] [YT logo]
 ```
