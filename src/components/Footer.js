@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import {FacebookShareButton,FacebookIcon,} from 'next-share'
+import { FacebookShareButton, FacebookIcon,} from 'react-share'
 import {TelegramShareButton,TelegramIcon,} from 'next-share'
 import {TwitterShareButton,TwitterIcon,} from 'next-share'
 import {WhatsappShareButton,WhatsappIcon,} from 'next-share'
@@ -13,7 +13,7 @@ export default () => (
       Dukung Kami dengan Share dan Follow{' '}
       <br/>
       < FacebookShareButton url = {'https://sholawat.net'}
-      quote = {'Kumpulan sholawat para imam Toriqoh dan lirik qosida' }
+      quote = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah' }
       hashtag = {'#Sholawat'} > 
       < FacebookIcon size={32} round/>
       </FacebookShareButton>

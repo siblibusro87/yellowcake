@@ -34,7 +34,8 @@ html {
 }
 
 body {
-  font-family: var(--font-system);
+  font-family:"lpmq";
+  src:url("lpmq.otf") format("otf");
   min-height: 100%;
   position: relative;
   background: white;
