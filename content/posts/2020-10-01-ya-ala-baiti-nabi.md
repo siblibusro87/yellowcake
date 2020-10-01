@@ -4,6 +4,8 @@ title: 'Ya Ala Baiti Nabi '
 status: Published
 date: '2020-10-01'
 excerpt: 'Yâ ãla baitin-Nabî as-Sayyidil ‘Arobî  '
+categories:
+  - category: Qosidah
 ---
 ياآل بيت النبی السيد العربی  
 لکم مددت يدي ففرج کربي
