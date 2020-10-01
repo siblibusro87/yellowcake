@@ -4,6 +4,8 @@ title: Liqolbi Yahwa Liqo
 status: Published
 date: '2020-10-01'
 excerpt: Liqolbi Yahwa Liqo
+categories:
+  - category: Qosidah
 ---
 لِيْ قَلْبِ يَهْوَی اللِّقَا فِي سَفْحِ وَادِي النَّقَا
 
