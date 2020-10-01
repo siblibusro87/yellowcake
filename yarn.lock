@@ -8958,6 +8958,11 @@ netlify-identity-widget@^1.5.5:
   resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.5.5.tgz#e9ba8d7676263507106060236cf55c2992f425e4"
   integrity sha512-gCILbXMVn83TiRaiPCWk93ynyyYgxn8N/KoO+WOfyGZaNgq7gMMPtn7vo6VDe/ZczgyCn9DRlm3artNoj78/MQ==
 
+next-share@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/next-share/-/next-share-0.0.2.tgz#1c09c0d9c0132c2d3ea000abc930102b9e2c7dc8"
+  integrity sha512-vHUKx+Mx9mEKoHlFulFdA50KLqoVGcVWm+TqySEHx0j+MGV3QzECh03Fz+PzrCr0cZeykF21qg0YVt3j+e5XZA==
+
 next-tick@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"

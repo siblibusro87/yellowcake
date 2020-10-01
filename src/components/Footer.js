@@ -13,7 +13,7 @@ export default () => (
       Dukung Kami dengan Share dan Follow{' '}
       <br/>
       < FacebookShareButton url = {'https://sholawat.net'}
-      quote = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah' }
+      quote = {'Kumpulan sholawat para imam Toriqoh dan lirik qosida' }
       hashtag = {'#Sholawat'} > 
       < FacebookIcon size={32} round/>
       </FacebookShareButton>
