@@ -9,6 +9,7 @@ subtitle: >-
   penghormatan kepadanya.
 accordion: []
 meta:
+  canonicalLink: 'https://sholawat.net'
   description: 'Kumpulan Doa-doa, Sholawat, Qosidah, Hizib, dan Maulid yang Muktabar'
   title: 'Kumpulan Doa-doa, Sholawat, Qosidah, Hizib, dan Maulid'
 ---
