@@ -1,15 +1,42 @@
 import React from 'react'
 import './Footer.css'
-
+import {FacebookShareButton,FacebookIcon,} from 'next-share'
+import {TelegramShareButton,TelegramIcon,} from 'next-share'
+import {TwitterShareButton,TwitterIcon,} from 'next-share'
+import {WhatsappShareButton,WhatsappIcon,} from 'next-share'
+import {LineShareButton,LineIcon,} from 'next-share'
 
 
 export default () => (
   <div>
-    <h4 className="taCenter">
-      Dukung Kami dengan Follow{' '}
-      <a href="https://instagram.com/siblibusro/"> instagram </a>
-    </h4>
-    <br />
+    <h5 className="taCenter">
+      Dukung Kami dengan Share dan Follow{' '}
+      <br/>
+      < FacebookShareButton url = {'https://sholawat.net'}
+      quote = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah' }
+      hashtag = {'#Sholawat'} > 
+      < FacebookIcon size={32} round/>
+      </FacebookShareButton>
+
+      < TelegramShareButton url = {'https://sholawat.net'}
+      title = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah'} >
+        <TelegramIcon size = {32}
+      round/> </TelegramShareButton>
+
+      < TwitterShareButton url = {'https://sholawat.net'}
+      title = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah'} >
+        <TwitterIcon size = {32} round /> 
+        </TwitterShareButton>
+      < WhatsappShareButton url = {'https://sholawat.net' }
+      title = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah'}
+      separator = ":: " >
+        <WhatsappIcon size = {32} round /> 
+        </WhatsappShareButton>
+< LineShareButton url = {'https://sholawat.net'}
+title = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah'} >
+  <LineIcon size = {32} round />  </LineShareButton>
+
+    </h5>    
     <footer className="footer">
       <div className="container taCenter">
         <span>
