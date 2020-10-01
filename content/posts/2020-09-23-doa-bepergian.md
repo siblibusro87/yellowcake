@@ -9,10 +9,6 @@ excerpt: >
 
   Alloohumma hawwin 'alainaa safaranaa hadzaa waatwi 'annaa bu'dahu. Alloohumma
   antashookhibu fiissafari walkholiifatu fiil ahli
-
-  Artinya: Ya Allah, mudahkanlah kami berpergian ini, dan dekatkanlah
-  kejauhannya. Ya Allah yang menemani dalam berpergian, dan Engkau pula yang
-  melindungi keluarga
 categories:
   - category: Doa
 meta:
