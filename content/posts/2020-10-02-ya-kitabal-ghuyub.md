@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: YA KITABAL GHUYUB
+title: Ya Kitabal Ghuyub
 status: Published
 date: '2020-10-02'
 excerpt: YA KITABAL GHUYUB
