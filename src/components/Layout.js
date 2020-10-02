@@ -4,10 +4,15 @@ import { StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import Nav from './Nav'
 import Footer from './Footer'
-
+import {addBackToTop} from 'vanilla-back-to-top'
 
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
+
+
+addBackToTop({
+  backgroundColor: '#000',
+})
 
 export default ({ children, meta, title }) => {
   return (
