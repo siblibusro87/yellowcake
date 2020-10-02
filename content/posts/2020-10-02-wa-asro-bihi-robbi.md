@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: WA ASRO BIHI ROBBI
+title: Wa Asro Bihi Robbi
 status: Published
 date: '2020-10-02'
 excerpt: WA ASRO BIHI ROBBI
