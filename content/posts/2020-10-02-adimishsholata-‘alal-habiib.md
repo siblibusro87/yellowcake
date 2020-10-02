@@ -5,7 +5,7 @@ status: Published
 date: '2020-10-02'
 excerpt: Adimishsholata ‘Alal Habiib
 categories:
-  - category: Hizib
+  - category: Qosidah
 ---
 
 أَدِمِ الصَّلَاةَ عَلَی اْلحَبِيْب  
