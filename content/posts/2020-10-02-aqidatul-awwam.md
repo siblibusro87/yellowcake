@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: AQIDATUL AWWAM
+title: Aqidatul Awwam
 status: Published
 date: '2020-10-02'
 excerpt: AQIDATUL AWWAM
