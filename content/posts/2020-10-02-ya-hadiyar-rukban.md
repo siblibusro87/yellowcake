@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: YA HADIYAR RUKBAN
+title: Ya Hadiyar Rukban
 status: Published
 date: '2020-10-02'
 excerpt: YA HADIYAR RUKBAN
