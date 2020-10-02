@@ -81,7 +81,7 @@ class Form extends React.Component {
                 name="firstname"
                 required
               />
-              <span>Firstname</span>
+              <span>Nama Depan</span>
             </label>
             <label className="Form--Label">
               <input
@@ -91,7 +91,7 @@ class Form extends React.Component {
                 name="lastname"
                 required
               />
-              <span>Lastname</span>
+              <span>Nama Belakang</span>
             </label>
           </div>
           <fieldset>
@@ -103,7 +103,7 @@ class Form extends React.Component {
                 value="male"
                 defaultChecked
               />
-              <span>Male</span>
+              <span>Pria</span>
             </label>
             <label className="Form--Label Form--Radio">
               <input
@@ -112,7 +112,7 @@ class Form extends React.Component {
                 name="gender"
                 value="female"
               />
-              <span>Female</span>
+              <span>Perempuan</span>
             </label>
           </fieldset>
           <label className="Form--Label">
@@ -123,7 +123,7 @@ class Form extends React.Component {
               name="emailAddress"
               required
             />
-            <span>Email address</span>
+            <span>Email</span>
           </label>
           <label className="Form--Label has-arrow">
             <select
@@ -133,11 +133,11 @@ class Form extends React.Component {
               required
             >
               <option disabled hidden>
-                Type of Enquiry
+                Subjek
               </option>
-              <option>Need to know more</option>
-              <option>Found a bug</option>
-              <option>Want to say hello</option>
+              <option>Ingin Tahu Lebih</option>
+              <option>Celah Keamanan</option>
+              <option>Berkenalan</option>
             </select>
           </label>
           <label className="Form--Label">
@@ -148,7 +148,7 @@ class Form extends React.Component {
               rows="10"
               required
             />
-            <span>Message</span>
+            <span>Isi Pesan</span>
           </label>
           <label className="Form--Label Form-Checkbox">
             <input
@@ -156,7 +156,7 @@ class Form extends React.Component {
               name="newsletter"
               type="checkbox"
             />
-            <span>Get news updates</span>
+            <span>Kirimi saya Update</span>
           </label>
           <div
             className="g-recaptcha"
@@ -167,7 +167,7 @@ class Form extends React.Component {
           <input
             className="Button Form--SubmitButton"
             type="submit"
-            value="Enquire"
+            value="Kirim"
             disabled={this.state.disabled}
           />
         </form>

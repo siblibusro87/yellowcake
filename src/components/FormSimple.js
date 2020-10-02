@@ -40,11 +40,11 @@ export default ({
         required
       >
         <option disabled hidden>
-          Type of Enquiry
+          Subjek
         </option>
-        <option>Need to know more</option>
-        <option>Found a bug</option>
-        <option>Want to say hello</option>
+        <option>Ingin Tahu Lebih</option>
+        <option>Menemukan Celah Keamanan</option>
+        <option>Berkenalan</option>
       </select>
     </label>
     <label className='Form--Label'>
