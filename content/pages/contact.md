@@ -1,27 +1,30 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+title: Kontak
+featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
+subtitle: Isi Formulir dibawah ini untuk menghubungi kami.
+address: Gg Puskesmas Blok gotrok Rt01/01 Ds Susukan Kec. Susukan Kab. Cirebon 45166
+phone: +62231 830588
+email: mbusrosibli@gmail.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
+  - lat: '-6.632579'
+    lng: '108.374001'
     mapLink: ''
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: >-
+    Untuk mengisi formulir kontak disamping ini anda harus:Mengisi nama depan
+    dan nama belakang anda dengan benar agar kami bisa menghubungi anda
+    kembali.Mencantumkan Alamat email/surel anda.Mencantumkan jenis kelamin.Anda
+    bisa memilih tujuan menghubungi dan mengisi isi pesan.
+  title: Halaman Kontak
 ---
+# Formulir Kontak
 
-# Example contact form
+Untuk mengisi formulir kontak disamping ini anda harus:
 
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+* Mengisi nama depan dan nama belakang anda dengan benar agar kami bisa menghubungi anda kembali.
+* Mencantumkan Alamat email/surel anda.
+* Mencantumkan jenis kelamin.
+* Anda bisa memilih tujuan menghubungi 
+* dan mengisi isi pesan.
