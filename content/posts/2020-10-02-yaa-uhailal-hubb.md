@@ -24,20 +24,21 @@ categories:
 
 عَدْتُ أَدْرَاجِی إِلَيْکُمْ ۞ لَوْ تُجِيْبُونِی السُّؤَالِ
 
-DUHAI YANG TERCINTA
-Wahai orang-orang tercinta
-Bedermalah kepadaku dengan cinta setiamu
-Aku berkata, "Wahai para kekasih, kembalilah!!"
-Semua harapanku ada padamu
-Engkau menumbuhkan hatiku
-Dengan mengingatmu adalah obat bagiku
-Kedatanganmu membutakan cinta hatiku
-Kapan datangnya hari pertemuan itu
-Kebahagiaanku saat aku bisa memandangmu
-Berilah aku kesempatan untuk memandangmu wahai hamba yang mulia
-Ketika kerelaanmu setia padaku
-Hati jernih dan cinta pun membara
-Tiada berarti bagiku kecuali cinta padamu
-Jika engkau mau bertemu denganku
-Aku kembalikan surat-suratku padamu
-Jika engkau mau mengabulkan permohonanku
+DUHAI YANG TERCINTA  
+
+Wahai orang-orang tercinta  
+Bedermalah kepadaku dengan cinta setiamu  
+Aku berkata, "Wahai para kekasih, kembalilah!!"  
+Semua harapanku ada padamu  
+Engkau menumbuhkan hatiku  
+Dengan mengingatmu adalah obat bagiku  
+Kedatanganmu membutakan cinta hatiku  
+Kapan datangnya hari pertemuan itu  
+Kebahagiaanku saat aku bisa memandangmu  
+Berilah aku kesempatan untuk memandangmu wahai hamba yang mulia  
+Ketika kerelaanmu setia padaku  
+Hati jernih dan cinta pun membara  
+Tiada berarti bagiku kecuali cinta padamu  
+Jika engkau mau bertemu denganku  
+Aku kembalikan surat-suratku padamu  
+Jika engkau mau mengabulkan permohonanku  
