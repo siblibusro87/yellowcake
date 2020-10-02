@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: YA SAYYIDASSADAT
+title: Ya Sayyidassadat
 status: Published
 date: '2020-10-02'
 excerpt: YA SAYYIDASSADAT
