@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: SYIIR WATON GUSDUR
+title: Syiir Waton Gusdur
 status: Published
 date: '2020-10-02'
 excerpt: SYIIR WATON GUSDUR
