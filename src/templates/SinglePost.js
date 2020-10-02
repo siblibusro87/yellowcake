@@ -1,8 +1,7 @@
 import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
-
-
+import {addBackToTop} from 'vanilla-back-to-top'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
@@ -15,6 +14,8 @@ export const SinglePostTemplate = ({
   prevPostURL,
   categories = []
 }) => (
+  
+
   <main>
     <article
       className="SinglePost section light"
@@ -84,6 +85,9 @@ export const SinglePostTemplate = ({
     </article>
   </main>
 )
+addBackToTop({
+  backgroundColor: '#000',
+})
 
 // Export Default SinglePost for front-end
 const SinglePost = ({ data: { post, allPosts } }) => {

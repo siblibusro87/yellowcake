@@ -156,7 +156,7 @@ class Form extends React.Component {
               name="newsletter"
               type="checkbox"
             />
-            <span>Kirimi saya Update</span>
+            <span>Kirimi saya update</span>
           </label>
           <div
             className="g-recaptcha"
