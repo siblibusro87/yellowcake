@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: LI KHOMSATUN UTHFI BIHA
+title: Li Khomsatun Uthfi Biha
 status: Published
 date: '2020-10-01'
 excerpt: LI KHOMSATUN UTHFI BIHA
