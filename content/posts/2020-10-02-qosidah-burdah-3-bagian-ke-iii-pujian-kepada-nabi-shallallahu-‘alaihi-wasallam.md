@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: >-
-  QOSIDAH BURDAH 3 (Bagian ke-III: Pujian kepada nabi shallallahu ‘alaihi
+  Qosidah Burdah 3 (Bagian ke-III: Pujian kepada nabi shallallahu ‘alaihi
   wasallam)
 status: Published
 date: '2020-10-02'
