@@ -13,8 +13,6 @@ meta:
   description: 'Kumpulan Doa-doa, Sholawat, Qosidah, Hizib, dan Maulid yang Muktabar'
   title: 'Kumpulan Doa-doa, Sholawat, Qosidah, Hizib, dan Maulid'
 ---
-
-
 Selamat Datang di website para pecinta sholawat, hizib, qosidah dan doa-doa
 
 Pada Website ini kami berbagi dan membantu kepada para sahabat semuanya untuk dapat memperoleh berbagai macam bacaan doa, sholawat, qosidah, dan hizib yang mungkin biasa di dengar atau diketahui di pondok pondok pesantren, majelis dzikir ataupun majelis maulid dan lain sebagainya. Semoga bermanfaat , amin
@@ -26,7 +24,3 @@ Pada Website ini kami berbagi dan membantu kepada para sahabat semuanya untuk da
 * Doa-doa
 * Hizib
 * Maulid
-
-# 
-
-```
