@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 'Qasidah Burdah 1 '
+title: 'Qasidah Burdah 1 (Bagian pertama: Berkasih sayang dan pengaduan cinta)'
 status: Published
 date: '2020-10-02'
 excerpt: 'Qasidah Burdah 1 '
