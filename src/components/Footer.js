@@ -48,7 +48,7 @@ title = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah'} >
           All rights reserved.Made with < FaHeart /> by {
             ' '
           }
-          < a href = "https://sholawat.net/" > Sholawat team </a> | 
+          < a href = "/" > Sholawat team </a> | 
           < a href = "/about/" > About </a> |
           < a href = "/privacy-policy/" > Privacy policy </a> |
           < a href = "/contact/" > Contact </a>  |
