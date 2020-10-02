@@ -5,6 +5,7 @@ import {TelegramShareButton,TelegramIcon,} from 'next-share'
 import {TwitterShareButton,TwitterIcon,} from 'next-share'
 import {WhatsappShareButton,WhatsappIcon,} from 'next-share'
 import {LineShareButton,LineIcon,} from 'next-share'
+import {FaHeart} from 'react-icons/fa'
 
 
 export default () => (
@@ -40,7 +41,13 @@ title = {'Kumpulan sholawat para imam Toriqoh dan lirik qosidah'} >
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Made with love by{' '}
+          ©
+          Copyright {
+            new Date().getFullYear()
+          }
+          All rights reserved.Made with < FaHeart /> by {
+            ' '
+          }
           < a href = "https://sholawat.net/" > Sholawat team </a> | 
           < a href = "/about/" > About </a> |
           < a href = "/privacy-policy/" > Privacy policy </a> |
