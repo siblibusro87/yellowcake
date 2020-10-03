@@ -10,9 +10,6 @@ import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
 
 
-addBackToTop({
-  backgroundColor: '#000',
-})
 
 export default ({ children, meta, title }) => {
   return (
