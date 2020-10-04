@@ -1,12 +1,14 @@
 ---
 template: SinglePost
-title: Al Wabaa (Nisa Sabyan)
+title: Al Wabaa
 status: Published
 date: '2020-09-25'
 excerpt: Allahummad fa’nal ghola’ wal bala’ wal wabaa’
 categories:
   - category: Qosidah
 ---
+Oleh : Nisa Sabyan
+
 اَللهُمَّ ادْفَعْ عَنَّاالْغَلَآءَ وَالْبَلَآءَ وَالْوَبَآءَ
 
 
