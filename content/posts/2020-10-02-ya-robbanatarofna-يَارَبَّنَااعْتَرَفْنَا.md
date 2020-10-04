@@ -1,12 +1,14 @@
 ---
 template: SinglePost
-title: Ya Robbana'tarofna (يَارَبَّنَااعْتَرَفْنَا)
+title: 'Ya Robbana tarofna '
 status: Published
 date: '2020-10-02'
 excerpt: Ya Robbana'tarofna (يَارَبَّنَااعْتَرَفْنَا)
 categories:
   - category: Qosidah
 ---
+                     (يَارَبَّنَااعْتَرَفْنَا)
+
 يَارَبَّنَااعْتَرَفْنَا ۞ بِأَنَّنَااقْتَرَفْنَا
 
 وَأَنَّنَا أَسْرَفْنَا ۞ عَلَى لَظَى أَشْرَفْنَا
