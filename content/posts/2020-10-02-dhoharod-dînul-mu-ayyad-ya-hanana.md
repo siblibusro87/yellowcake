@@ -5,11 +5,11 @@ status: Published
 date: '2020-10-02'
 excerpt: |
 
-  Dhoharod-dînul mu-ayyad  (Ya Hanana)
+  Dhoharod-dinul mu-ayyad (Ya Hanana)
 categories:
   - category: Qosidah
 ---
-                 Dhoharod-dînul mu-ayyad
+                 Dhoharod-dinul muayyad
 
 
 ظَهَرُ الدِّيْنُ اْلمُؤَيَّد ۰۞۰ بِظُهُوْرِ النَّبِی أَحْمَد
