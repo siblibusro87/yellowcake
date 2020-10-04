@@ -1,12 +1,13 @@
 ---
 template: SinglePost
-title: 'Subhana Man Dzikruhu ( سُبْحَانَ مَنْ ذِكْرُهُ ) '
+title: 'Subhana Man Dzikruhu  '
 status: Published
 date: '2020-10-02'
 excerpt: 'Subhana Man Dzikruhu ( سُبْحَانَ مَنْ ذِكْرُهُ ) '
 categories:
   - category: Qosidah
 ---
+                    ( سُبْحَانَ مَنْ ذِكْرُهُ )
 
 سُبْحَانَ مَنْ ذِكْرُهُ عِزٌّلِ ذَكِرِهِ
 فَهُوَ الْجَلِيْسُ لَهُ اللهُ الله
