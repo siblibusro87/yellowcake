@@ -1,12 +1,14 @@
 ---
 template: SinglePost
-title: Saaltullaha barina (Rabbi waj'alna minal Akhyar)
+title: 'Saaltullaha barina '
 status: Published
 date: '2020-10-02'
 excerpt: Saaltullaha barina (Rabbi waj'alna minal Akhyar)
 categories:
   - category: Qosidah
 ---
+              (Rabbi waj'alna minal Akhyar)
+
 
 سَــأَلْــتُ اللهَ بَـــارِيـنَــــــا
 
