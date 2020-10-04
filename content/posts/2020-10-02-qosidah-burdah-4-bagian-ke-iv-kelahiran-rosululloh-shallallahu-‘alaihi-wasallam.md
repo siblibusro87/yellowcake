@@ -1,8 +1,6 @@
 ---
 template: SinglePost
-title: >-
-  Qosidah Burdah 4 ( Bagian ke-IV: Kelahiran Rosululloh Shallallahu ‘alaihi
-  wasallam )
+title: 'Qosidah Burdah 4 '
 status: Published
 date: '2020-10-02'
 excerpt: >-
@@ -11,6 +9,8 @@ excerpt: >-
 categories:
   - category: Qosidah
 ---
+    ( Bagian ke-IV: Kelahiran Rosululloh Shallallahu ‘alaihi wasallam )
+
 
 أَبَانَ مَوْلِدُهُ عَنْ طِيْــبِ عُنْصُرِهِ     ۞    يَا طِيْـــبَ مُبْتَدَإٍ مِنْهُ وَمُخْتَتَمِ
 
