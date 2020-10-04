@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Cinta Indonesia NKRI Harga Mati   (Habib Syech bin Abdul Qodir Assegaf)
+title: 'Cinta Indonesia NKRI Harga Mati  '
 status: Published
 date: '2020-09-26'
 excerpt: |-
@@ -11,6 +11,8 @@ excerpt: |-
 categories:
   - category: Qosidah
 ---
+         Oleh :  Habib Syech bin Abdul Qodir Assegaf
+
 صَـلا َةُ اللهِ سَـلا َمُ اللهِ #   عَـلَى طـهَ رَسُـوْلِ اللهِ  
 
 صَـلا َةُ اللهِ سَـلا َمُ اللهِ #   عَـلَى يـس حَبِيْـبِ اللهِ  
