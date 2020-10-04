@@ -1,13 +1,13 @@
 ---
 template: SinglePost
-title: Toriq Khoiril Waro (Qosidah Al Habib Umar Bin Muhammad Bin Salim Bin Hafidh)
+title: 'Toriq Khoiril Waro '
 status: Published
 date: '2020-10-01'
 excerpt: Toriq Khoiril Waro
 categories:
   - category: Qosidah
 ---
-
+      (Qosidah Al Habib Umar Bin Muhammad Bin Salim Bin Hafidh)
 
 طَرِيقْ خَيْرِ اْلوَرَى دَعْوَةْ إِلىَ الله دَوَام ، بِاْلفِعْلِ وَاْلقَصْدِ وَالنِّيَةْ وَخَيْرِ اْلگَلَامْ
 
