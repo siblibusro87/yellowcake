@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Puji-pujian lahir Nabi  (Magrib)
+title: 'Puji-pujian lahir Nabi '
 status: Published
 date: '2020-10-01'
 excerpt: |
