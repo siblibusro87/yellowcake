@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: '"Syi''iran Nhadlatul Ulama (NU)"'
+title: 'Syi''iran Nhadlatul Ulama '
 status: Published
 date: '2020-10-02'
 excerpt: '"Syi''iran Nhadlatul Ulama (NU)"'
