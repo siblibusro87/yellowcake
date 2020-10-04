@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Ahlân wa sahlân binnabî
+title: Ahlan wa sahlan binnabi
 status: Published
 date: '2020-09-25'
 excerpt: Ahlân wa sahlân binnabî
