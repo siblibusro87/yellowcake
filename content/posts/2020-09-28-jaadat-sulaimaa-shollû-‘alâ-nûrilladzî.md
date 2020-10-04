@@ -1,12 +1,14 @@
 ---
 template: SinglePost
-title: Jaadat Sulaimaa (Shollû ‘alâ nûrilladzî)
+title: 'Jaadat Sulaimaa '
 status: Published
 date: '2020-09-28'
 excerpt: Jaadat Sulaimaa (Shollû ‘alâ nûrilladzî)
 categories:
   - category: Qosidah
 ---
+                 (Shollu ala nurilladzi)
+
 صَلُّوْا عَلَی نُوْرِ الَّذِی عَرَجَ السَّمَاءْ
 
 يَافَوْزَ مَنْ صَلَّی عَلَيْهِ وَسَلَّمَ
