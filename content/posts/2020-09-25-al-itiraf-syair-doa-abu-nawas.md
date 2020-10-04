@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Al i'tiraf (Syair doa Abu Nawas)
+title: 'Al i''tiraf '
 status: Published
 date: '2020-09-25'
 excerpt: ilaahii lastu lil firdausi ahlaan wa laa aqwaa ‘alaa naaril jahiimi
