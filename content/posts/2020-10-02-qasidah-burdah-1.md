@@ -1,13 +1,13 @@
 ---
 template: SinglePost
-title: 'Qasidah Burdah 1 (Bagian pertama: Berkasih sayang dan pengaduan cinta)'
+title: 'Qasidah Burdah 1 '
 status: Published
 date: '2020-10-02'
 excerpt: 'Qasidah Burdah 1 '
 categories:
   - category: Qosidah
 ---
-
+    (Bagian pertama: Berkasih sayang dan pengaduan cinta)
 
 للناظم الشيخ محمد البوصيري  
 الفصل الأول : في الغزل وشكوى الغرام  
