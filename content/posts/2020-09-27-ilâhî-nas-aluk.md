@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Ilâhî nas aluk
+title: Ilahi nas aluk
 status: Published
 date: '2020-09-27'
 excerpt: Ilâhî nas-aluk bil ismil a’dhomi wa jâhil Mushthofâ Farrij ‘alainâ
