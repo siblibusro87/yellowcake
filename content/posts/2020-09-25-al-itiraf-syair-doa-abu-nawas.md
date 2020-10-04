@@ -19,12 +19,12 @@ categories:
 
 فَإِنْ تَغْفِرْ فَأنْتَ لِذَاكَ أَهْلٌ ۞ فَإنْ تَطْرُدْ فَمَنْ نَرْجُو سِوَاكَ
 
-> Ilaahii lastu lil firdausi ahlaan wa laa aqwaa ‘alaa naaril jahiimi\
-> Dzunuubii mitslu a’daadir rimaali fa hablii taubatan yaa dzaaljalaali\
-> Fa hablii taubatan waghfir zunuubii fa innaka ghaafirudzdzambil ‘azhiimi\
-> Wa ‘umrii naaqishun fii kulli yaumi wa dzambii zaa-idun kaifah timaali\
-> Ilaahii ‘abdukal ‘aashii ataaka muqirran bidzdzunuubi wa qad da’aaka\
-> Fa in taghfir fa anta lidzaaka ahlun wa in tathrud faman narjuu siwaaka  
+> Ilaahii lastu lil firdausi ahlaan wa laa aqwaa ‘alaa naaril jahiimi  
+> Dzunuubii mitslu a’daadir rimaali fa hablii taubatan yaa dzaaljalaali  
+> Fa hablii taubatan waghfir zunuubii fa innaka ghaafirudzdzambil ‘azhiimi    
+> Wa ‘umrii naaqishun fii kulli yaumi wa dzambii zaa-idun kaifah timaali  
+> Ilaahii ‘abdukal ‘aashii ataaka muqirran bidzdzunuubi wa qad da’aaka  
+> Fa in taghfir fa anta lidzaaka ahlun wa in tathrud faman narjuu siwaaka    
 
 Artinya : 
 
