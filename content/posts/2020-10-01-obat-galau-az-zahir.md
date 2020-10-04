@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Obat Galau (Az-zahir)
+title: 'Obat Galau '
 status: Published
 date: '2020-10-01'
 excerpt: |
@@ -11,6 +11,8 @@ excerpt: |
 categories:
   - category: Qosidah
 ---
+                        (Az-zahir)
+
 ياَ سُؤُونِي مِنْ زَمَانِي مَا اَرِي فِيْهَ 
   
 مِنْ اِحْتِلاَفِ فَشِ مَا بَيْنَ اَهْلِيْه 
