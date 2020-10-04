@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Thola’al badru ‘alaynâ
+title: Thola’al badru alayna
 status: Published
 date: '2020-10-02'
 excerpt: Thola’al badru ‘alaynâ
