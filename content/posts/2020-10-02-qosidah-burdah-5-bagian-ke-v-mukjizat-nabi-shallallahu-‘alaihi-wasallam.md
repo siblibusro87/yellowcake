@@ -1,12 +1,14 @@
 ---
 template: SinglePost
-title: 'Qosidah Burdah 5 ( Bagian ke-V: mukjizat nabi shallallahu ‘alaihi wasallam)'
+title: 'Qosidah Burdah 5 '
 status: Published
 date: '2020-10-02'
 excerpt: 'Qosidah Burdah 5 ( Bagian ke-V: mukjizat nabi shallallahu ‘alaihi wasallam)'
 categories:
   - category: Qosidah
 ---
+   ( Bagian ke-V: mukjizat nabi shallallahu ‘alaihi wasallam)
+
 
 جَآءَتْ لِدَعْوَتِهِ الْأَشْجَارُ سَاجِدَةً   ۞    تَمْشِيْ إِلَيْهِ عَلىٰ سَاقٍ بِلاَ قَدَمِ
 
