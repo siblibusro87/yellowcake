@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: ' Dhoharod-dînul mu-ayyad  (Ya Hanana)'
+title: '  Ya Hanana'
 status: Published
 date: '2020-10-02'
 excerpt: |
@@ -9,6 +9,8 @@ excerpt: |
 categories:
   - category: Qosidah
 ---
+                 Dhoharod-dînul mu-ayyad
+
 
 ظَهَرُ الدِّيْنُ اْلمُؤَيَّد ۰۞۰ بِظُهُوْرِ النَّبِی أَحْمَد
 يَاهَنَانَا بِمُحَمَّدْ ۰۞۰ ذَلِكَ اْلفَضْلُ مِنَ الله
