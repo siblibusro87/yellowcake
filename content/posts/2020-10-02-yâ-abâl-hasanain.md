@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Yâ abâl hasanain
+title: Ya abal hasanain
 status: Published
 date: '2020-10-02'
 excerpt: Yâ abâl hasanain
