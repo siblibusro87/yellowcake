@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Sholawat Indonesia  (الصلوات الاندونيسية)
+title: Sholawat Indonesia
 status: Published
 date: '2020-10-02'
 excerpt: |
