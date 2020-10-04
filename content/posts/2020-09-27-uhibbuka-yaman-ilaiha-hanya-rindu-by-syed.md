@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Uhibbuka Yaman Ilaiha (Hanya Rindu by Syed)
+title: 'Uhibbuka Yaman Ilaiha '
 status: Published
 date: '2020-09-27'
 excerpt: |
@@ -8,7 +8,7 @@ excerpt: |
 categories:
   - category: Qosidah
 ---
-
+                 (Hanya Rindu by Syed)
 
 أُحِبُّكِ يَا مَنْ إِلَيْهَا أَهْدِي كَلِمَاتِي  
 أَطَالَ فِي عُمْرِهَا يَا رَبَّ العَالَمِين  
