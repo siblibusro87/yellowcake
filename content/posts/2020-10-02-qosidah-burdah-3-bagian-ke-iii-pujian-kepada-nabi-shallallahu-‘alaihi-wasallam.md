@@ -1,8 +1,6 @@
 ---
 template: SinglePost
-title: >-
-  Qosidah Burdah 3 (Bagian ke-III: Pujian kepada nabi shallallahu ‘alaihi
-  wasallam)
+title: 'Qosidah Burdah 3 '
 status: Published
 date: '2020-10-02'
 excerpt: >-
@@ -11,6 +9,8 @@ excerpt: >-
 categories:
   - category: Qosidah
 ---
+    (Bagian ke-III: Pujian kepada nabi shallallahu ‘alaihi wasallam)
+
 الفصل الثالث : في مدح سيد المرسلين صلى الله عليه وسلم
 
 ظَلَمْتُ سُنّةَ مَنْ أَحْيَا الظَّلَامَ إِلىٰ   ۞  أَنِ اشْتَكَتْ قَدَمَاهُ الضّرّ مِنْ وَرَمِ
