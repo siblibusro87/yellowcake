@@ -1,12 +1,13 @@
 ---
 template: SinglePost
-title: Qosidah Tawassul Sayyidah Khodijah
+title: Sayyidah Khodijah
 status: Published
 date: '2020-10-02'
 excerpt: Robbi sâlak bihurmati sayyidatnâ khodîjah
 categories:
   - category: Qosidah
 ---
+Qosidah Tawassul 
 
 رَبِّ سَالَكْ بِحُرْمَةِ سَيِّدَتِنَا خَدِيْجَهْ
 
@@ -51,4 +52,3 @@ categories:
 شَيخْ (عِينَاتْ) ذْي فِی اْلقَوْمَ مَا حَدَّ مَثِيْلَه
 
 وَالصَّلاَةُ عَلیٰ مَنْ حَوْضَهُ سَلْسَبِيْلَه
-
