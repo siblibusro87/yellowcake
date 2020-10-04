@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Ya Imamar Rusli (Marro’at Ainun)
+title: 'Ya Imamar Rusli '
 status: Published
 date: '2020-10-02'
 excerpt: Ya Imamar Rusli (Marro’at Ainun)
