@@ -7,6 +7,13 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    {
+      resolve: "gatsby-plugin-verify-bing",
+      options: {
+        userIds: ["840407369D1F1162693B6B7941DB595C"],
+        xmlFileName: "BingSiteAuth.xml", // optional
+      },
+    },
     'gatsby-transformer-yaml',
     {
       resolve: 'gatsby-plugin-google-tagmanager',
@@ -135,5 +142,6 @@ module.exports = {
       }
     },
     'gatsby-plugin-netlify' // make sure to keep it last in the array
+   
   ]
 }
