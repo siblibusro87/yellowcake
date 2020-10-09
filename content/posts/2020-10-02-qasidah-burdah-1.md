@@ -3,7 +3,13 @@ template: SinglePost
 title: 'Qasidah Burdah 1 '
 status: Published
 date: '2020-10-02'
-excerpt: 'Qasidah Burdah 1 '
+excerpt: >-
+  Apakah karena mengingat para kekasih di Dzi Salam sana.
+
+  Engkau deraikan air mata dengan darah duka.Ataukah karena hembusan angin
+  terarah lurus berjumpa di Kadhimah. 
+
+  Dan kilatan cahaya gulita malam dari kedalaman jurang idham . 
 categories:
   - category: Qosidah
 ---
