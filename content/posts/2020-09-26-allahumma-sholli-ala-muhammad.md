@@ -3,7 +3,13 @@ template: SinglePost
 title: Allahumma Sholli 'Ala Muhammad
 status: Published
 date: '2020-09-26'
-excerpt: 'In qîla zurtum bimâ roja’tum yâ akromal kholqi mâ naqûlu '
+excerpt: >-
+  اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدْ      يَارَبِّ صَلِّ عَلَيْهِ وَسَلِّمْ
+
+  اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدْ      يَارَبِّ صَلِّ عَلَيْهِ وَسَلِّمْ  اِنْ
+  قِيْلَ زُرْتُمْ بِمَارَجَعْتُمْ      يَااَكْرَمَ الْخَلْقِ مَا نَقُوْلُ
+
+  قُوْلُوْا رَجَعْنَا بِكُلِّ خَيْرٍ        وَاجْتَمَعَ اْلفَرْعُ وَالاُصُوْلُ
 categories:
   - category: Qosidah
 ---
