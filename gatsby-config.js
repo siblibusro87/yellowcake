@@ -19,7 +19,7 @@ module.exports = {
       resolve: 'gatsby-plugin-google-tagmanager',
       options: {
         /*id: 'GTM-add_your_tag_here',*/
-        id: '', // ganti google tag disini contohGTM-P4RNF8D //
+        id: 'GTM-MQN899F', // ganti google tag disini contohGTM-P4RNF8D //
         includeInDevelopment: false
       }
     },
